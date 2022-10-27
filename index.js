@@ -17,15 +17,13 @@ app.get('/course/:id', (req, res) => {
     const id = req.params.id;
     const selectCourse = courses.find(c => c.id == id);
     res.send(selectCourse);
-    console.log(id);
 });
 app.get('/course/:id/checkout', (req, res) => {
     const id = req.params.id;
     const selectCourse = courses.find(c => c.id == id);
     res.send(selectCourse);
-    console.log(id);
 });
 
 app.listen(port, () => {
-    console.log('Hero News Server Runing', port);
+    console.log('Online School Server Runing', port);
 });
