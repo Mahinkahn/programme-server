@@ -1,90 +1,82 @@
 [
     {
-        "id":1,
-        "courseThumbel":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtA4W-HNaYtjVqDaaQOm68HTM4dJap2GxM4w&usqp=CAU",
-        "name":"Graphics Design And UI Design",
+        "id": 1,
+        "courseThumbel": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtA4W-HNaYtjVqDaaQOm68HTM4dJap2GxM4w&usqp=CAU",
+        "name": "Graphics Design And UI Design",
         "instructorName": "Steven Rutherford",
         "instructorPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiVLIm4_9eV0Ciz7uvCWeLGRVe5l64NwfX95GBQo1UbG3x8IfBnaITBMNKw3bXfO0Qwoc&usqp=CAU",
-        "totalClass":52,
-        "totalHours":112,
-        "detels":"“UI” stands for user interface—the graphical portion of an app, website, or device that a human user interacts with. UI designers seek to make these layouts and interactive elements intuitive, accessible, and inclusive."
-
+        "totalClass": 52,
+        "totalHours": 112,
+        "detels": "“UI” stands for user interface—the graphical portion of an app, website, or device that a human user interacts with. UI designers seek to make these layouts and interactive elements intuitive, accessible, and inclusive."
     },
     {
         "id": 2,
-        "courseThumbel":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-eLRiP7_j2C6x84b8TpggGc6Phh85AbSnHw&usqp=CAU",
-        "name":"Full Stack Web Development",
+        "courseThumbel": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-eLRiP7_j2C6x84b8TpggGc6Phh85AbSnHw&usqp=CAU",
+        "name": "Full Stack Web Development",
         "instructorName": "Chamok Hasan",
         "instructorPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTunTrivxTkM623PCcLCN-K67QxIDRHseA62g&usqp=CAU",
-        "totalClass":43,
-        "totalHours":36,
-        "detels":"Full stack technology refers to the entire depth of a computer system application, and full stack developers straddle two separate web development domains: the front end and the back end. The front end includes everything that a client, or site viewer, can see and interact with.."
-
+        "totalClass": 43,
+        "totalHours": 36,
+        "detels": "Full stack technology refers to the entire depth of a computer system application, and full stack developers straddle two separate web development domains: the front end and the back end. The front end includes everything that a client, or site viewer, can see and interact with.."
     },
     {
         "id": 3,
-        "courseThumbel":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEzKFe6VOX7zVsdJ7jYKtq-FUIKOcycxy1EA&usqp=CAU",
-        "name":"Web Design With Shopify",
+        "courseThumbel": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEzKFe6VOX7zVsdJ7jYKtq-FUIKOcycxy1EA&usqp=CAU",
+        "name": "Web Design With Shopify",
         "instructorName": "James Harrington",
         "instructorPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFVC1NiOwrz_51zLdCubiSuiOGTmY6AsC6HO5_m_9EyhNgXv80Xlf0K-ZTu_9jWTDnjeQ&usqp=CAU",
-        "totalClass":77,
-        "totalHours":776,
-        "detels":"Shopify is an E-Commerce platform that allows you to build and manage Online Stores. The Shopify Website Design tools and templates can help users in developing an aesthetic outlook for your business."
-
+        "totalClass": 77,
+        "totalHours": 776,
+        "detels": "Shopify is an E-Commerce platform that allows you to build and manage Online Stores. The Shopify Website Design tools and templates can help users in developing an aesthetic outlook for your business."
     },
     {
         "id": 4,
-        "courseThumbel":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAVgbXkKAWukUZPgKT3RVqeqWt45cFk8Yiw&usqp=CAU",
-        "name":"MERN Stack Development",
+        "courseThumbel": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAVgbXkKAWukUZPgKT3RVqeqWt45cFk8Yiw&usqp=CAU",
+        "name": "MERN Stack Development",
         "instructorName": "Jhankar Mahabub",
         "instructorPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxmQnbnZ-YTRZ0fJtT4dXpYnY9eD01P_FKVg&usqp=CAU",
-        "totalClass":77,
-        "totalHours":776,
-        "detels":"MERN stack is a collection of technologies that enables faster application development. It is used by developers worldwide. The main purpose of using MERN stack is to develop apps using JavaScript only. This is because the four technologies that make up the technology stack are all JS-based."
-
+        "totalClass": 77,
+        "totalHours": 776,
+        "detels": "MERN stack is a collection of technologies that enables faster application development. It is used by developers worldwide. The main purpose of using MERN stack is to develop apps using JavaScript only. This is because the four technologies that make up the technology stack are all JS-based."
     },
     {
         "id": 5,
-        "courseThumbel":"https://shikhbeshobai.com/public/backend/assets/img/courses/2102572322.png",
-        "name":"Full Stack Motion Graphics",
+        "courseThumbel": "https://shikhbeshobai.com/public/backend/assets/img/courses/2102572322.png",
+        "name": "Full Stack Motion Graphics",
         "instructorName": "Kathrin Osborn",
         "instructorPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd2v47du3yGCrZIMg0eVWLQk7fEtIfHIhsJw&usqp=CAU",
-        "totalClass":44,
-        "totalHours":23,
-        "detels":"Motion graphics (sometimes mograph) are pieces of animation or digital footage which create the illusion of motion or rotation, and are usually combined with audio for use in multimedia projects."
-
+        "totalClass": 44,
+        "totalHours": 23,
+        "detels": "Motion graphics (sometimes mograph) are pieces of animation or digital footage which create the illusion of motion or rotation, and are usually combined with audio for use in multimedia projects."
     },
     {
         "id": 6,
-        "courseThumbel":"https://shikhbeshobai.com/public/backend/assets/img/courses/2056590566.png",
-        "name":"Basic Computer",
+        "courseThumbel": "https://shikhbeshobai.com/public/backend/assets/img/courses/2056590566.png",
+        "name": "Basic Computer",
         "instructorName": "Shukkur Ali",
         "instructorPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV8mZMDt9VV59ZZhpf-397iwyYv3Zh1fU2tE3BafFd7u8D0HLnUe78g8njjE94MTDp_Ds&usqp=CAU",
-        "totalClass":22,
-        "totalHours":12,
-        "detels":"A computer is a. device for working with information. The information can be numbers, words, pictures, movies, or sounds. Computer information is also called data. Computers can process huge amounts of data very quickly."
-
+        "totalClass": 22,
+        "totalHours": 12,
+        "detels": "A computer is a. device for working with information. The information can be numbers, words, pictures, movies, or sounds. Computer information is also called data. Computers can process huge amounts of data very quickly."
     },
     {
         "id": 7,
-        "courseThumbel":"https://shikhbeshobai.com/public/backend/assets/img/courses/2106941855.png",
-        "name":"Professional MS Excel",
+        "courseThumbel": "https://shikhbeshobai.com/public/backend/assets/img/courses/2106941855.png",
+        "name": "Professional MS Excel",
         "instructorName": "Tareq Quazi",
         "instructorPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxc6pkkqnk5J6p27xnJmWWXeC3aVxf5xk49w&usqp=CAU",
-        "totalClass":45,
-        "totalHours":32,
-        "detels":"MS Excel is a commonly used Microsoft Office application. It is a spreadsheet program which is used to save and analyse numerical data. In this article, we bring to you the important features of MS Excel, along with an overview of how to use the program, its benefits and other important elements."
-
+        "totalClass": 45,
+        "totalHours": 32,
+        "detels": "MS Excel is a commonly used Microsoft Office application. It is a spreadsheet program which is used to save and analyse numerical data. In this article, we bring to you the important features of MS Excel, along with an overview of how to use the program, its benefits and other important elements."
     },
     {
         "id": 8,
-        "courseThumbel":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXeoL5VSpis356-qFglc6XHf-mhc3M7XEepQ&usqp=CAU",
-        "name":"Digital Markeeting",
+        "courseThumbel": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXeoL5VSpis356-qFglc6XHf-mhc3M7XEepQ&usqp=CAU",
+        "name": "Digital Markeeting",
         "instructorName": "Steven Rutherford",
         "instructorPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPX5AlKgbtgRCda9lxN8Mjvx1pxW_p5zVAyw&usqp=CAU",
-        "totalClass":36,
-        "totalHours":12,
-        "detels":"Digital marketing, also called online marketing, is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel."
-
+        "totalClass": 36,
+        "totalHours": 12,
+        "detels": "Digital marketing, also called online marketing, is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel."
     }
 ]
